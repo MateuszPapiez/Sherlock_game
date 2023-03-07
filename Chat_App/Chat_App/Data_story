@@ -1,0 +1,36 @@
+[
+   {
+      "title": "Zwierzęta",
+      "image": "M_I_Animal",
+      "color": "#ff8A65",
+      "time": "2h",
+      "player": "5",
+      "onestory": [
+          {
+              "text_part_1": "Mały Fabian i jego magiczny groch",
+              "text_part_2": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it.",
+              "text_part_3": "Inside_category_1",
+              "image_part_1": "#54772E",
+              "image_part_2": "#222222",
+              "image_part_3": "#FBD4C7"
+          }
+      ]
+   },
+   {
+    "title": "Morderstwo w Pociągu",
+    "image": "M_I_Animal",
+    "color": "#ff8A65",
+    "time": "2h",
+    "player": "5",
+    "onestory": [
+        {
+            "text_part_1": "Mały Fabian i jego magiczny groch",
+            "text_part_2": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it.",
+            "text_part_3": "Inside_category_1",
+            "image_part_1": "#54772E",
+            "image_part_2": "#222222",
+            "image_part_3": "#FBD4C7"
+        }
+    ]
+ }
+]

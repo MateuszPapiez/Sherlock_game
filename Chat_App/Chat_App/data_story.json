@@ -1,0 +1,55 @@
+[
+  {
+    "title": "Śmierć w transsyberyjskim ekspresie",
+    "main_image": "image_cover_1",
+    "color": "#ff8A65",
+    "time": "2h",
+    "player": "5",
+    "text_part_1": "Mały Fabian i jego magiczny groch",
+    "text_part_2": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it.",
+    "text_part_3": "Inside_category_1",
+    "image_part_1": "#54772E",
+    "image_part_2": "#222222",
+    "image_part_3": "#FBD4C7"
+  },
+  {
+    "title": "Tajemnica Braci Collins",
+    "main_image": "image_cover_2",
+    "color": "#ff8A65",
+    "time": "1h",
+    "player": "2",
+    "text_part_1": "Mały Fabian i jego magiczny groch",
+    "text_part_2": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it.",
+    "text_part_3": "Inside_category_1",
+    "image_part_1": "#54772E",
+    "image_part_2": "#222222",
+    "image_part_3": "#FBD4C7"
+  },
+  {
+    "title": "Śmierć w zakładzie psychiatrycznym",
+    "main_image": "image_cover_3",
+    "color": "#ff8A65",
+    "time": "2h",
+    "player": "3",
+    "text_part_1": "Mały Fabian i jego magiczny groch",
+    "text_part_2": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it.",
+    "text_part_3": "Inside_category_1",
+    "image_part_1": "#54772E",
+    "image_part_2": "#222222",
+    "image_part_3": "#FBD4C7"
+  },
+  {
+    "title": "Samobujstwo Burmistrza z Pethworth",
+    "main_image": "image_cover_4",
+    "color": "#ff8A65",
+    "time": "2h",
+    "player": "3",
+    "text_part_1": "Mały Fabian i jego magiczny groch",
+    "text_part_2": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it.",
+    "text_part_3": "Inside_category_1",
+    "image_part_1": "#54772E",
+    "image_part_2": "#222222",
+    "image_part_3": "#FBD4C7"
+  }
+]
+
